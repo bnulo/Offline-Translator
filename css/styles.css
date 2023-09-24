@@ -87,7 +87,7 @@ body {
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
   /* background-color: var(--bs-body-bg); */
-  background-color: #000;
+  /* background-color: #000; */
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   /* scrollbar-color: #fff #000; */
