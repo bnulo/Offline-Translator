@@ -7853,7 +7853,8 @@ textarea.form-control-lg {
 
 .bg-black {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #fff !important;
+  /* background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important; */
 }
 
 .bg-white {
@@ -11295,7 +11296,7 @@ textarea.form-control-lg {
 html {
   scroll-padding-top: 4.5rem;
 }
-/* bacground color */
+/* background color */
 .bg-black {
   background-color: #fff !important;
 }
